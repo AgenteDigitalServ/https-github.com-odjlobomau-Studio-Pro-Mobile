@@ -1,0 +1,7 @@
+{
+  "name": "StudioPro Mobile - Locução Profissional",
+  "description": "Aplicativo de gravação de voz profissional com processamento em tempo real, redução de ruído por IA e ferramentas de masterização de locução.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
